@@ -21,7 +21,7 @@ Flag Format: PUCTF25{[a-zA-Z0-9_]+_[a-fA-F0-9]{32}}
 Please follow k1k1_fansclub ! ** <br>
 https://www.threads.net/@k1k1_fansclub ** <br>
 https://www.instagram.com/k1k1_fansclub
-<br>
+<br><br>
 ~~Please Do not~~ Social Engineering @K1K1!
 </details>
 
@@ -32,7 +32,7 @@ Attachments: N/A
 Step 1: confusion
 - feed some random stuff
 
-Step 2: copy and past
+Step 2: copy and paste
 - continuously paste part of their response back to them
 
 Step 3: profit
