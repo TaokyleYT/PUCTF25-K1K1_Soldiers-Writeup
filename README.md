@@ -2,8 +2,6 @@
 
 ## No files are related to this challenge
 
-## Please open issue should you have any questions. It will be added to the respective Q&A section.
-
 Author: S051_Destroy Lai Lai's Machine (aka DLLM)
 
 ## Situation
@@ -23,7 +21,7 @@ Flag Format: PUCTF25{[a-zA-Z0-9_]+_[a-fA-F0-9]{32}}
 Please follow k1k1_fansclub ! ** <br>
 https://www.threads.net/@k1k1_fansclub ** <br>
 https://www.instagram.com/k1k1_fansclub
-
+<br>
 ~~Please Do not~~ Social Engineering @K1K1!
 </details>
 
